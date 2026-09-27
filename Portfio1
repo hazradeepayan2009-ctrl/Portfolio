@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sharadiya 2026 | Free Fire Tournament</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #0f172a; /* Dark slate background */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #e2e8f0;
+        }
+        .neon-orange {
+            color: #f97316;
+            text-shadow: 0 0 10px rgba(249, 115, 22, 0.7);
+        }
+        .bg-gaming {
+            background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+            border: 1px solid #334155;
+        }
+        .btn-register {
+            background: linear-gradient(90deg, #ea580c, #f97316);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
